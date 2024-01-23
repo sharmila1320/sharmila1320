@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sharmila1320
-- 👀 I’m interested in Backend dev,UI&UX along with app dev
-- 🌱 I’m currently learning Kotlin and DSA with C and C++
+- 🌱 I’m currently learning DSA with  C++
 - 📫 How to reach me : mail at sharmilarapeti1451@gmail.com
 
 <!---
