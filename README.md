@@ -22,8 +22,9 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZkNGZobXdyNGR0YmZybHI4NzRycTd3dDkxd3hoaWF5YXc5ZzUxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n7zdJrj3rjI6A/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/n7zdJrj3rjI6A/giphy.gif" width="300px">
 </div>
+
 
 
 <br>
@@ -150,4 +151,3 @@ Junior Event Coordinator, E-CELL<br>
 
 <div align="center"> <h2>Thank you for being here 💫</h2> <img src="https://i.pinimg.com/originals/8f/71/e5/8f71e53b785d5ac6c2dfd5e88c9acddd.gif" width="450"/> </div> 
 
-![test gif](https://media.tenor.com/Gh0lDZ2o8P8AAAAC/anime-girl-kawaii.gif)
