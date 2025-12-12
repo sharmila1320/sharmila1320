@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/n7zdJrj3rjI6A/giphy.gif](https://github.com/sharmila1320/sharmila1320/blob/main/waving_gif.gif)" width="300px">
+  <img src="https://github.com/sharmila1320/sharmila1320/blob/main/waving_gif.gif" width="300px">
 </div>
 
 
