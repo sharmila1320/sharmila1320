@@ -28,7 +28,7 @@
 <br>
 
 <h2 align="center"> 👁️‍🗨️ About Me 👁️‍🗨️ </h2>
-```zsh
+
 
 Profile ver: 星々に触れる者 (One who dreams in constellations)
 ---------------------------------------------------------------
@@ -129,8 +129,6 @@ Junior Event Coordinator, E-CELL<br>
 
 
 <h2 align="center">  GitHub Stats </h2> <div align="center"> <a href="https://github-readme-stats.vercel.app"> <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=sharmila1320&count_private=true&theme=neon&show_icons=true&rank_icon=github&hide_border=false"> </a>
-php-template
-Copy code
 <a href="https://github-readme-streak-stats.herokuapp.com">
     <img width="49%" alt="Streak Stats" 
          src="https://github-readme-streak-stats.herokuapp.com/?user=sharmila1320&theme=neon&hide_border=false&date_format=%5BY%20%5DM%20j">
@@ -149,4 +147,4 @@ Copy code
 </div>
 <br><br>
 
-<div align="center"> <h2>Thank you for being here 💫</h2> <img src="https://i.pinimg.com/originals/8f/71/e5/8f71e53b785d5ac6c2dfd5e88c9acddd.gif" width="450"/> </div> ```
+<div align="center"> <h2>Thank you for being here 💫</h2> <img src="https://i.pinimg.com/originals/8f/71/e5/8f71e53b785d5ac6c2dfd5e88c9acddd.gif" width="450"/> </div> 
