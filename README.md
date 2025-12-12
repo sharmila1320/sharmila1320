@@ -1,7 +1,4 @@
 <div align="center">
-    <a href="https://github.com/kawarimidoll/typograssy">
-        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hello%20Traveler%20✨&l0=none&l1=ffd1dc&l2=fbcfe8&l3=f472b6&l4=701a75&bg=none&frame=none&speed=100&comment=">
-    </a>
 
    <p align="center">
       <a href="mailto:rapetisug22@ece.nits.ac.in" target="_blank">
@@ -32,7 +29,7 @@
 
 <h2 align="center"> 👁️‍🗨️ About Me 👁️‍🗨️ </h2>
 ```zsh
-<img align="left" src="https://i.pinimg.com/564x/1f/4b/60/1f4b60c7ea3dce60d294b8f5fc5e5bab.jpg" width="190px"/>
+
 Profile ver: 星々に触れる者 (One who dreams in constellations)
 ---------------------------------------------------------------
 Username: Sharmila Rapeti
@@ -53,7 +50,7 @@ Hobbies: Reading, designing clothes, yoga, anime aesthetics,
          building intelligent systems with creativity
 <br><br><br>
 
-<h2 align="center"> 🔬 Experience </h2>
+<h2 align="center">  Experience </h2>
 🔹 Summer Research Intern — SN BOSE – NIT Silchar (May–July 2025)
 MARLINet: Hybrid CNN–GNN Underwater Image Enhancement Model
 
@@ -148,12 +145,6 @@ Copy code
          src="https://github-readme-streak-stats.herokuapp.com/?user=sharmila1320&theme=neon&hide_border=false&date_format=%5BY%20%5DM%20j">
 </a>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="50%" align="left" alt="Trophy" 
-         src="https://github-profile-trophy.vercel.app/?username=sharmila1320&theme=radical&row=4&column=4">
-    <img width="41%" align="right"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmila1320&theme=neon&layout=compact&langs_count=6">
-</a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img width="120%" alt="Activity Graph" 
