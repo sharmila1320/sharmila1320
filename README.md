@@ -1,4 +1,3 @@
-
 <div align="center">
     <a href="https://github.com/kawarimidoll/typograssy">
         <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hello%20Traveler%20✨&l0=none&l1=ffd1dc&l2=fbcfe8&l3=f472b6&l4=701a75&bg=none&frame=none&speed=100&comment=">
@@ -35,11 +34,11 @@
 
 ```zsh
 sharmila1320: ~/my_readme (main⚡)$ neofetch
-````
+```
 
 <img align="left" src="https://i.pinimg.com/564x/1f/4b/60/1f4b60c7ea3dce60d294b8f5fc5e5bab.jpg" width="190px"/>
 
-```csharp
+```text
 Profile ver: 星々に触れる者 (One who dreams in constellations)
 ---------------------------------------------------------------
 Username: Sharmila Rapeti
@@ -64,22 +63,23 @@ Hobbies: Reading, designing clothes, webtoon bingeing,
 <div align="center">
     <p align="justify">
         Hey! I’m Sharmila — a developer who mixes logic with imagination.
-        I write code the way I write poems — with precision, rhythm, and a little stardust.<br><br>
+        I write code the way I write poems — with precision, rhythm, and a little stardust.
+    </p>
 
-```
-    I build:<br>
-    • intelligent systems<br>
-    • creative tools<br>
-    • simulations & space-tech experiments<br>
-    • full-stack apps with real-world impact<br><br>
+    <p align="left">
+    I build:
+    </p>
 
-    I dream in algorithms and galaxies.  
-    My mission: become one of the strongest SDEs of my generation, build meaningful technology, and someday contribute to Mars missions & deep-space engineering.<br><br>
+    <ul align="left">
+      <li>intelligent systems</li>
+      <li>creative tools</li>
+      <li>simulations & space-tech experiments</li>
+      <li>full-stack apps with real-world impact</li>
+    </ul>
 
-    Let’s build something beautiful.
-    <br>
-</p>
-```
+    <p align="justify">
+    I dream in algorithms and galaxies. My mission: become one of the strongest SDEs of my generation, build meaningful technology, and someday contribute to Mars missions & deep-space engineering.
+    </p>
 
    <p align="center">
       <a href="https://skillicons.dev">
@@ -92,14 +92,12 @@ Hobbies: Reading, designing clothes, webtoon bingeing,
 
 <h2 align="center"> 📉 GitHub Stats </h2>
 
-<div>
-    <p align="center">
-        <a href="https://github-readme-stats.vercel.app">
-            <img width="49%" alt="Stats" 
-                 src="https://github-readme-stats.vercel.app/api?username=sharmila1320&count_private=true&theme=neon&show_icons=true&rank_icon=github&hide_border=false">
-        </a>
+<div align="center">
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" 
+             src="https://github-readme-stats.vercel.app/api?username=sharmila1320&count_private=true&theme=neon&show_icons=true&rank_icon=github&hide_border=false">
+    </a>
 
-```
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" 
              src="https://github-readme-streak-stats.herokuapp.com/?user=sharmila1320&theme=neon&hide_border=false&date_format=%5BY%20%5DM%20j">
@@ -121,17 +119,11 @@ Hobbies: Reading, designing clothes, webtoon bingeing,
         <img width="120%" alt="GraphStats" 
              src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmila1320&theme=2077">
     </a>
-</p>
-```
-
 </div>
 
 <br><br>
 
-<div>
-    <h2 align="center">Thank you for being here 💫</h2>
-    <div align="center">
-        <img src="https://i.pinimg.com/originals/8f/71/e5/8f71e53b785d5ac6c2dfd5e88c9acddd.gif" width="450"/>
-    </div>
+<div align="center">
+    <h2>Thank you for being here 💫</h2>
+    <img src="https://i.pinimg.com/originals/8f/71/e5/8f71e53b785d5ac6c2dfd5e88c9acddd.gif" width="450"/>
 </div>
-```
