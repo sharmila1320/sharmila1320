@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-    <img src="https://media.tenor.com/Asu8EukgqL8AAAAC/anime-wave.gif" width="300px">
+    <img src="https://media.tenor.com/Gh0lDZ2o8P8AAAAC/anime-girl-kawaii.gif" width="300px">
 </div>
 
 <br>
