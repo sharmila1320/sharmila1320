@@ -149,3 +149,5 @@ Junior Event Coordinator, E-CELL<br>
 <br><br>
 
 <div align="center"> <h2>Thank you for being here 💫</h2> <img src="https://i.pinimg.com/originals/8f/71/e5/8f71e53b785d5ac6c2dfd5e88c9acddd.gif" width="450"/> </div> 
+
+![test gif](https://media.tenor.com/Gh0lDZ2o8P8AAAAC/anime-girl-kawaii.gif)
