@@ -52,6 +52,11 @@ Hobbies: Reading, designing clothes, yoga, anime aesthetics,
          building intelligent systems with creativity<br>
 <br><br><br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sharmila1320/sharmila1320/main/Rapeti_Sharmila_certificate.png" width="600px">
+</div>
+
+
 <h2 align="center">  Experience </h2>
 🔹 Summer Research Intern — SN BOSE – NIT Silchar (May–July 2025)<br>
 MARLINet: Hybrid CNN–GNN Underwater Image Enhancement Model<br>
