@@ -52,9 +52,7 @@ Hobbies: Reading, designing clothes, yoga, anime aesthetics,
          building intelligent systems with creativity<br>
 <br><br><br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sharmila1320/sharmila1320/main/Rapeti_Sharmila_certificate.png" width="600px">
-</div>
+
 
 
 <h2 align="center">  Experience </h2>
@@ -121,6 +119,10 @@ TensorFlow, Keras, Scikit-Learn, NLTK, OpenCV, Pandas, NumPy<br>
 </div> <br> <div align="center"> <a href="https://skillicons.dev"> <img style="margin: 10px" src="https://skillicons.dev/icons?i=c,cpp,py,js,react,nodejs,nextjs,html,css,git,github,linux,mysql,postgresql,mongodb,fastapi,tensorflow,sklearn,opencv&perline=8" /> </a> </div>
 <h2 align="center"> 🏆 Achievements </h2>
 Active open-source contributor at GSSoC'25<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sharmila1320/sharmila1320/main/Rapeti_Sharmila_certificate.png" width="600px">
+</div>
 
 Solved 500+ problems on LeetCode, GFG, Codeforces<br>
 
